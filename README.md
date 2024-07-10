@@ -1,7 +1,6 @@
 ### Olá! Me chamo Gabriel Lentine😃👋🏻 Me chame em um dos meus meios de comunicação abaixo
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511993240918)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lentine-83a316239/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabrielmarinholentine@gmail.com)
 
 ## STATS
 ![Lentine Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lentinegabriel&show_icons=true&theme=dracula)
