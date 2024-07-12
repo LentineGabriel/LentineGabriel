@@ -4,11 +4,10 @@
 - 💻Estudante Back-End C# e Desenvolvimento de Softwares
 
 ##
-<div>
-  <a href="https://github.com/LentineGabriel">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=lentinegabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lentinegabriel&hide_progress=false"/>
-</div>
+[![LentineGabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=LentineGabriel&theme=dracula&show_icons=true)](https://github.com/LentineGabriel/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LentineGabriel&hide_progress=false&theme=dracula&)
+
+
 <div>
   <img align="center" alt="CSHARP" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img align="center" alt="dotNET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
