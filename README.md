@@ -6,7 +6,6 @@
 ##
 [![LentineGabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=LentineGabriel&theme=dracula&show_icons=true)](https://github.com/LentineGabriel/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LentineGabriel&hide_progress=false&theme=dracula&)
-[![LentineGabriel's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LentineGabriel)](https://github.com/LentineGabriel/github-readme-stats)
 
 
 <div>
