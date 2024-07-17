@@ -1,12 +1,9 @@
 # Olá! Me chamo Gabriel Lentine😃👋🏻
 ####  🧔🏻17 years | Brazil, São Paulo
 
-- 💻Estudante Back-End C# e Desenvolvimento de Softwares
+- 💻Estudante Full-Stacker e Desenvolvimento de Softwares
 
-##
-[![LentineGabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=LentineGabriel&theme=dracula&show_icons=true)](https://github.com/LentineGabriel/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LentineGabriel&hide_progress=false&theme=dracula&)
-
+## Linguagens que estou estudando
 
 <div>
   <img align="center" alt="CSHARP" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
