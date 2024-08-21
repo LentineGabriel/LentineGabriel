@@ -6,7 +6,7 @@
 ### SOBRE MIM / ABOUT ME
 - 🌎 Brazil, São Paulo
 - 🧔🏻‍♂️ 18 anos / years
-- 💻 Estudante Backend e Análise e Desenvolvimento de Softwares / Backend, Software Analysis and Software Development Stundent
+- 💻 Estudante Backend e Análise e Desenvolvimento de Softwares / Backend, Software Analysis and Software Development Student
 - 🎲 Cristão, Gamer, amante de música e filmes / Christian, Gamer, music and movie lover
 <hr>
 
