@@ -1,38 +1,24 @@
-### Olá!👋🏻 Me chamo Gabriel Lentine. Seja bem-vindo ao meu Github!😃
-<p>Hi!👋🏻 I'm Gabriel Lentine. Welcome to my Github!😃</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HI!+MY+NAME'S+GABRIEL+HENRIQUE+MARINHO+LENTINE;I'M+18+YEARS+OLD;I'M+FROM+SÃO+PAULO,+SP;I'M+STUDYING+CSHARP;BE+WELCOME!+:%29)](https://git.io/typing-svg)
 
-<img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><img align="center" alt="visualstudio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/><img align="center" alt="visualstudiocode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-
-### SOBRE MIM / ABOUT ME
-- 🌎 Brazil, São Paulo
-- 🧔🏻‍♂️ 18 anos / years
-- 💻 Estudante Backend e Análise e Desenvolvimento de Softwares / Backend, Software Analysis and Software Development Student
-- 🎲 Cristão, Gamer, amante de música e filmes / Christian, Gamer, music and movie lover
-<hr>
-
-### LINGUAGENS QUE ESTOU ESTUDANDO / LANGUAGES I'M STUDYING
-<div>
-  <img align="center" alt="CSHARP" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LentineGabriel&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LentineGabriel&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-### MEIOS DE COMUNICAÇÃO / MEANS OF COMMUNICATION
-<div>
-  <a href="https://api.whatsapp.com/send?phone=5511993240918">
-    <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-    
-  <a href="https://www.linkedin.com/in/gabriel-lentine-83a316239/">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    
-  <a href="discord.gg/lentinedev">
-    <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-    
-  <a href="https://br.pinterest.com/gabriellentine66/">
-    <img align="center" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/>
-    
-  <a href="gabrielmarinholentine@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    
-  <a href="https://steamcommunity.com/id/lentine/">
-    <img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
-</div>
-<br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LentineGabriel&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### Main Skills
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
+
+### Other Knowledge
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+
+### Tools
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+
