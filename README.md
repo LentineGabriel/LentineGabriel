@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HI!+MY+NAME'S+GABRIEL+HENRIQUE+MARINHO+LENTINE;I'M+18+YEARS+OLD;I'M+FROM+SÃO+PAULO,+SP;I'M+STUDYING+CSHARP;BE+WELCOME!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HI!+MY+NAME'S+GABRIEL+HENRIQUE+MARINHO+LENTINE;I'M+18+YEARS+OLD;I'M+FROM+SÃO+PAULO,+SP,+BRAZIL;I'M+STUDYING+CSHARP;BE+WELCOME!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LentineGabriel&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Lentine github stats" />
