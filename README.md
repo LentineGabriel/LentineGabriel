@@ -37,6 +37,8 @@
   </span>
 </p>
 
+#
+
 <h3 align="center">💼 Habilidades</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" style="margin-right: 10px;" />
@@ -52,8 +54,16 @@
 
 #
 
+<h3 align="center">🏆​ Bootcamps</h3>
+<div align="center">
+  <a href="https://web.dio.me/track/decola-tech-avanade-net-developer" target="_blank"><img src="https://assets.dio.me/LzW5Gg_SdA1uJp5mzxBhEXT5srT_P8oTY6fIsgl6yOg/f:webp/h:120/q:80/L3RyYWNrcy82YmI0MDQyMC01Zjg5LTQ5MDItOGRmNy0zMzk5Njc0ZDlkODQucG5n" height="50"></a>
+  <a href="https://web.dio.me/track/avanade-back-end-com-net-e-ia" target="_blank"><img src="https://assets.dio.me/fmurnmImYsLpbR26s6Rsrxi82t-6iYqTlwkJGBzm0mI/f:webp/h:120/q:80/L3RyYWNrcy8yMzk0ODU4NS1iZTdmLTRlZjctODQxNi1iOGUwYWFhYWYyZjcucG5n" height="50"></a>
+</div>
+
+#
+
 <div style="text-align: center" align="center">
-  <h3>Estatísticas do meu GitHub</h3>
+  <h3>✒️​ Estatísticas do meu GitHub</h3>
   <br>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LentineGabriel&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Lentine github stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LentineGabriel&layout=compact&hide_border=true&title_color=FF0000&text_color=FF0000&bg_color=0d1117" />
