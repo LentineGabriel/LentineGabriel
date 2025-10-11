@@ -46,6 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" alt="Swagger" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" alt="Postman" style="margin-right: 10px;" />
@@ -56,8 +57,9 @@
 
 <h3 align="center">🏆​ Bootcamps</h3>
 <div align="center">
-  <a href="https://web.dio.me/track/decola-tech-avanade-net-developer" target="_blank"><img src="https://assets.dio.me/LzW5Gg_SdA1uJp5mzxBhEXT5srT_P8oTY6fIsgl6yOg/f:webp/h:120/q:80/L3RyYWNrcy82YmI0MDQyMC01Zjg5LTQ5MDItOGRmNy0zMzk5Njc0ZDlkODQucG5n" height="50"></a>
-  <a href="https://web.dio.me/track/avanade-back-end-com-net-e-ia" target="_blank"><img src="https://assets.dio.me/fmurnmImYsLpbR26s6Rsrxi82t-6iYqTlwkJGBzm0mI/f:webp/h:120/q:80/L3RyYWNrcy8yMzk0ODU4NS1iZTdmLTRlZjctODQxNi1iOGUwYWFhYWYyZjcucG5n" height="50"></a>
+  <a href="https://web.dio.me/track/decola-tech-avanade-net-developer" target="_blank"><img src="https://assets.dio.me/LzW5Gg_SdA1uJp5mzxBhEXT5srT_P8oTY6fIsgl6yOg/f:webp/h:120/q:80/L3RyYWNrcy82YmI0MDQyMC01Zjg5LTQ5MDItOGRmNy0zMzk5Njc0ZDlkODQucG5n" height="70"></a>
+  <a href="https://web.dio.me/track/avanade-back-end-com-net-e-ia" target="_blank"><img src="https://assets.dio.me/fmurnmImYsLpbR26s6Rsrxi82t-6iYqTlwkJGBzm0mI/f:webp/h:120/q:80/L3RyYWNrcy8yMzk0ODU4NS1iZTdmLTRlZjctODQxNi1iOGUwYWFhYWYyZjcucG5n" height="70"></a>
+  <a href="https://web.dio.me/track/5320d393-c573-461a-8eb1-799d6547577d" target="_blank"><img src="https://assets.dio.me/Xl98YWbvhhAF2MJhHva1jjFf-NNKiYP86uVUHeJpj6U/f:webp/h:120/q:80/L3RyYWNrcy84MmI1NWE0OC1kOTlmLTRjZDItYjJhMC1hNjc0N2JkYjM5YzUucG5n" height="70"></a>
 </div>
 
 #
