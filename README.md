@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<p align="center">Olá! Meu nome é <strong>Gabriel Henrique Marinho Lentine</strong>, tenho 19 anos e sou de São Paulo. Atualmente estou cursando o <strong>2º semestre de Análise e Desenvolvimento de Sistemas</strong> na <strong>Uninove – Campus Santo Amaro</strong>. Sou entusiasta de tecnologia, apaixonado por desenvolvimento de software, jogos, música e leitura. Estou sempre em busca de novos conhecimentos e focado em evoluir constantemente como profissional e como pessoa. Meu principal objetivo é me tornar um <strong>Desenvolvedor Fullstack</strong>, unindo habilidades de front-end e back-end para criar soluções completas, eficientes e bem estruturadas.
+<p align="center">Olá! Meu nome é <strong>Gabriel Henrique Marinho Lentine</strong>, tenho 19 anos e sou de São Paulo. Atualmente estou cursando o <strong>3º semestre de Análise e Desenvolvimento de Sistemas</strong> na <strong>Uninove – Campus Santo Amaro</strong>. Sou entusiasta de tecnologia, apaixonado por desenvolvimento de software, jogos, música e leitura. Estou sempre em busca de novos conhecimentos e focado em evoluir constantemente como profissional e como pessoa. Meu principal objetivo é me tornar um <strong>Desenvolvedor Fullstack</strong>, unindo habilidades de front-end e back-end para criar soluções completas, eficientes e bem estruturadas.
   
 #
 
