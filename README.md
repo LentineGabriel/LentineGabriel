@@ -10,11 +10,6 @@
 
 <h3 align="center">📱 Entre em contato comigo!</h3>
 <p align="center">
- <span>
-    <a href="https://wa.me/5511993240918" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-    </a>&nbsp;
- </span>
   <span>
     <a href="https://www.linkedin.com/in/lentinegabriel/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
