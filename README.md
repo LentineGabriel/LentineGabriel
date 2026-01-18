@@ -45,6 +45,7 @@
   <a href="https://web.dio.me/track/decola-tech-avanade-net-developer" target="_blank"><img src="https://assets.dio.me/LzW5Gg_SdA1uJp5mzxBhEXT5srT_P8oTY6fIsgl6yOg/f:webp/h:120/q:80/L3RyYWNrcy82YmI0MDQyMC01Zjg5LTQ5MDItOGRmNy0zMzk5Njc0ZDlkODQucG5n" height="70"></a>
   <a href="https://web.dio.me/track/avanade-back-end-com-net-e-ia" target="_blank"><img src="https://assets.dio.me/fmurnmImYsLpbR26s6Rsrxi82t-6iYqTlwkJGBzm0mI/f:webp/h:120/q:80/L3RyYWNrcy8yMzk0ODU4NS1iZTdmLTRlZjctODQxNi1iOGUwYWFhYWYyZjcucG5n" height="70"></a>
   <a href="https://web.dio.me/track/9c448825-5d65-4620-b6a0-4ea01b0af99a" target="_blank"><img src="https://assets.dio.me/OHrJtmlMFWalaK_YrAnUm1n3K2YlCzSRv_yn6BPUb30/f:webp/h:120/q:80/L3RyYWNrcy81ODllMWU0Ny0xNTY4LTQ5MWMtOGM4MC1hZGQ2YTZmZWVlNTEucG5n" height="70"></a>
+  <a href="https://web.dio.me/track/6d3204ad-67bf-4e29-85fe-faef914ad050" target="_blank"><img src="https://assets.dio.me/vzDB5fs-eCBjaemDgMXw2hMKH2y7sYYOExMiHpr3mD0/f:webp/h:120/q:80/L3RyYWNrcy9hMDhlOThlNS05NWZhLTRiNjMtODNhZC00MjFmNTE4MDk2ZWIucG5n" height="70"></a>
 </div>
 
 #
