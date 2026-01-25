@@ -4,7 +4,6 @@
   </a>
 </div>
 
-## 👋 Sobre mim
 Meu nome é **Gabriel Henrique Marinho Lentine**, tenho **19 anos**, sou de **São Paulo** e curso o **3º semestre de Análise e Desenvolvimento de Sistemas** na **Uninove – Campus Santo Amaro**.
 
 Sou focado em **desenvolvimento de software**, com forte interesse em **back-end e arquitetura de APIs**, utilizando principalmente **C# e .NET**. Ao longo de quase **2 anos de estudo contínuo**, venho construindo uma base sólida em lógica, estruturação de sistemas, boas práticas e integração entre camadas.
