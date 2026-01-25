@@ -1,46 +1,94 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=524&lines=Bem-vindos+ao+meu+perfil!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=650&lines=Bem-vindos+ao+meu+GitHub;Desenvolvimento+Back-end+com+.NET;Construindo+APIs+robustas+e+bem+estruturadas" alt="Typing SVG">
   </a>
 </div>
 
-<p align="center">Olá! Meu nome é <strong>Gabriel Henrique Marinho Lentine</strong>, tenho 19 anos e sou de São Paulo. Atualmente estou cursando o <strong>3º semestre de Análise e Desenvolvimento de Sistemas</strong> na <strong>Uninove – Campus Santo Amaro</strong>. Sou entusiasta de tecnologia, apaixonado por desenvolvimento de software, jogos, música e leitura. Estou sempre em busca de novos conhecimentos e focado em evoluir constantemente como profissional e como pessoa. Meu principal objetivo é me tornar um <strong>Desenvolvedor Fullstack</strong>, unindo habilidades de front-end e back-end para criar soluções completas, eficientes e bem estruturadas.
-  
-#
+## 👋 Sobre mim
+Meu nome é **Gabriel Henrique Marinho Lentine**, tenho **19 anos**, sou de **São Paulo** e curso o **3º semestre de Análise e Desenvolvimento de Sistemas** na **Uninove – Campus Santo Amaro**.
 
-<h3 align="center">📱 Entre em contato comigo!</h3>
+Sou focado em **desenvolvimento de software**, com forte interesse em **back-end e arquitetura de APIs**, utilizando principalmente **C# e .NET**. Ao longo de quase **2 anos de estudo contínuo**, venho construindo uma base sólida em lógica, estruturação de sistemas, boas práticas e integração entre camadas.
+
+Meu objetivo profissional é atuar como **Desenvolvedor Fullstack**, com domínio técnico suficiente para projetar, implementar e evoluir soluções completas — do banco de dados à API, com visão de escalabilidade e manutenção.
+
+Trabalho com código pensando em:
+- Clareza
+- Organização
+- Responsabilidade técnica
+- Evolução contínua
+
+## 📱 Entre em contato comigo
+
 <p align="center">
-  <span>
-    <a href="https://www.linkedin.com/in/lentinegabriel/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>&nbsp;
-  </span>
-  <span>
-    <a href="https://github.com/LentineGabriel" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>&nbsp;
-  </span>
+  <a href="https://www.linkedin.com/in/lentinegabriel/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://github.com/LentineGabriel" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
-#
+## 💼 Habilidades Técnicas
 
-<h3 align="center">💼 Habilidades</h3>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" alt=".NETCore" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" alt="Swagger" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" alt="Postman" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" title=".NET / ASP.NET Core" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" title="Swagger / OpenAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" title="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
 </div>
 
-#
+### Experiência prática com:
+- APIs RESTful com **ASP.NET Core**
+- Versionamento de API
+- DTOs, AutoMapper e validações
+- Autenticação e autorização
+- Integração com banco de dados relacional
+- Documentação com Swagger
+- Consumo e testes de endpoints via Postman
+- Organização de projetos em camadas
 
-<h3 align="center">🏆​ Bootcamps</h3>
+## 🚀 Projetos em Destaque
+
+### 📚 **BibliotecaAPI**
+🔗 https://github.com/LentineGabriel/BibliotecaAPI  
+API REST desenvolvida em **ASP.NET Core**, focada em organização, boas práticas e estruturação correta de domínio, serviços e repositórios.
+Mais detalhes do projeto em seu README.
+
+**Destaques técnicos:**
+- Arquitetura em camadas
+- Relacionamentos entre entidades
+- Validações
+- Swagger para documentação
+- Boas práticas de nomenclatura e responsabilidade
+
+---
+
+### 📦 **CatalogoAPI**
+🔗 https://github.com/LentineGabriel/CatalogoAPI  
+Projeto voltado para construção de uma API de catálogo, explorando conceitos de **CRUD**, estrutura de controllers e integração com banco de dados.
+Mais detalhes do projeto em seu README.
+
+**Destaques técnicos:**
+- CRUD completo
+- Padrão REST
+- Estrutura organizada
+- Foco em clareza e manutenção
+
+---
+
+### 🔐 **Gerador de Senhas**
+🔗 https://github.com/LentineGabriel/GeradorSenhas  
+Projeto simples e funcional, focado em **lógica de programação**, geração segura e organização do código.
+Mais detalhes do projeto em seu README.
+
+## 🏆 Bootcamps
+
 <div align="center">
   <a href="https://web.dio.me/track/decola-tech-avanade-net-developer" target="_blank"><img src="https://assets.dio.me/LzW5Gg_SdA1uJp5mzxBhEXT5srT_P8oTY6fIsgl6yOg/f:webp/h:120/q:80/L3RyYWNrcy82YmI0MDQyMC01Zjg5LTQ5MDItOGRmNy0zMzk5Njc0ZDlkODQucG5n" height="70"></a>
   <a href="https://web.dio.me/track/avanade-back-end-com-net-e-ia" target="_blank"><img src="https://assets.dio.me/fmurnmImYsLpbR26s6Rsrxi82t-6iYqTlwkJGBzm0mI/f:webp/h:120/q:80/L3RyYWNrcy8yMzk0ODU4NS1iZTdmLTRlZjctODQxNi1iOGUwYWFhYWYyZjcucG5n" height="70"></a>
@@ -49,12 +97,22 @@
   <a href="https://web.dio.me/track/d504948d-d0cf-464e-ac8a-e7373d91ed15" target="_blank"><img src="https://assets.dio.me/3jJz8tbTBy1I5GugkvmkOtyLDgGCmo3fe4-slvgFGIk/f:webp/h:120/q:80/L3RyYWNrcy9kNTEwODAzMi0xMzViLTQ4Y2QtYjVlYy05ZDU2YjEwYzM2YjAucG5n" height="70"></a>
 </div>
 
-#
-
-<div style="text-align: center" align="center">
-  <h3>✒️​ Estatísticas do meu GitHub</h3>
-  <br>
-  <div align="center">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/LentineGabriel?cardType=level&theme=radical&preferLogin=false" alt="My Awesome Stats" />
-  </div>
+## 📊 Estatísticas do GitHub
+<div align="center">
+  <!-- Linha 1: cards lado a lado -->
+  <img
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/LentineGabriel?cardType=level&theme=radical&preferLogin=false"
+    alt="GitHub Stats"
+    width="420"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LentineGabriel&layout=compact&theme=radical&langs_count=12&size_weight=0.5&count_weight=0.5"
+    alt="Top Languages"
+    width="420"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=LentineGabriel&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub Streak"
+    width="420"
+  />
 </div>
