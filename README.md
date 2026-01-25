@@ -103,16 +103,20 @@ Mais detalhes do projeto em seu README.
   <img
     src="https://awesome-github-stats.azurewebsites.net/user-stats/LentineGabriel?cardType=level&theme=radical&preferLogin=false"
     alt="GitHub Stats"
-    width="420"
+    width="500"
   />
+
+  
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LentineGabriel&layout=compact&theme=radical&langs_count=12&size_weight=0.5&count_weight=0.5"
     alt="Top Languages"
-    width="420"
+    width="320"
+    height="200"
   />
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=LentineGabriel&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"
     alt="GitHub Streak"
-    width="420"
+    width="380"
+    height="500"
   />
 </div>
