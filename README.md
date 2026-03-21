@@ -20,10 +20,10 @@ Trabalho com código pensando em:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lentinegabriel/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="180"/>
   </a>&nbsp;
   <a href="https://github.com/LentineGabriel" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="180"/>
   </a>
 </p>
 
