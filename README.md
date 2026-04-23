@@ -20,10 +20,7 @@ Trabalho com código pensando em:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lentinegabriel/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="180"/>
-  </a>&nbsp;
-  <a href="https://github.com/LentineGabriel" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="180"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
 </p>
 
