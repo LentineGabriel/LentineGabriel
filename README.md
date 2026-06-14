@@ -1,110 +1,133 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=650&lines=Bem-vindos+ao+meu+GitHub;Desenvolvimento+Back-end+com+.NET;Construindo+APIs+robustas+e+bem+estruturadas" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=FF0000&center=true&vCenter=true&width=750&lines=Software+Engineering+%E2%80%A2+AI+%E2%80%A2+APIs;Construindo+solu%C3%A7%C3%B5es+inteligentes;.NET+%E2%80%A2+LLMs+%E2%80%A2+Dados+%E2%80%A2+Automa%C3%A7%C3%A3o" alt="Typing SVG">
   </a>
 </div>
 
-Meu nome é **Gabriel Henrique Marinho Lentine**, tenho **19 anos**, sou de **São Paulo** e curso o **3º semestre de Análise e Desenvolvimento de Sistemas** na **Uninove – Campus Santo Amaro**.
+## 🕵️‍♂️ Sobre Mim
+Meu nome é **Gabriel Henrique Marinho Lentine**, tenho **19 anos**, sou de **São Paulo** e curso **Análise e Desenvolvimento de Sistemas** na **Uninove**.
 
-Sou focado em **desenvolvimento de software**, com forte interesse em **back-end e arquitetura de APIs**, utilizando principalmente **C# e .NET**. Ao longo de quase **2 anos de estudo contínuo**, venho construindo uma base sólida em lógica, estruturação de sistemas, boas práticas e integração entre camadas.
+Tenho foco em **Desenvolvimento de Software**, **Inteligência Artificial** e **Integração de Sistemas**, com interesse especial em APIs, agentes inteligentes, engenharia de prompts, modelos de linguagem (LLMs) e aplicações orientadas por dados.
 
-Meu objetivo profissional é atuar como **Desenvolvedor Fullstack**, com domínio técnico suficiente para projetar, implementar e evoluir soluções completas — do banco de dados à API, com visão de escalabilidade e manutenção.
+Ao longo de **2 anos de estudos contínuos**, venho construindo experiência prática no desenvolvimento de APIs, arquitetura de software, bancos de dados e integração entre sistemas e serviços.
 
-Trabalho com código pensando em:
-- Clareza
-- Organização
-- Responsabilidade técnica
-- Evolução contínua
+Minha principal área de interesse está na interseção entre **Software Engineering**, **IA** e **Dados**, explorando formas de transformar modelos inteligentes em soluções reais por meio de APIs, automações e fluxos escaláveis.
+
+### Experiência prática com
+
+* Desenvolvimento de APIs RESTful com ASP.NET Core
+* Versionamento, documentação e consumo de APIs
+* Modelagem de dados, DTOs e validações
+* Autenticação, autorização e controle de acesso
+* Integração com bancos de dados relacionais
+* Testes e validação de endpoints com Postman
+* Documentação com Swagger/OpenAPI
+* Arquitetura em camadas e separação de responsabilidades
+* Integração entre aplicações, serviços e APIs de terceiros
+
+### Princípios de desenvolvimento
+
+* Clareza
+* Organização
+* Responsabilidade técnica
+* Escalabilidade
+* Evolução contínua
+
 
 ## 📱 Entre em contato comigo
-
 <p align="center">
   <a href="https://www.linkedin.com/in/lentinegabriel/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
 </p>
 
-## 💼 Habilidades Técnicas
-
+## 💼 Stack Tecnológica
 <div align="center">
+  <h3>Back-end</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" title=".NET / ASP.NET Core" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
+
+<br>
+
+<h3>Front-end</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
+
+<br>
+
+<h3>Inteligência Artificial e Dados</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
+
+<br>
+
+<h3>APIs e Ferramentas</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" title="Swagger / OpenAPI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" title="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
 </div>
 
-### Experiência prática com:
-- APIs RESTful com **ASP.NET Core**
-- Versionamento de API
-- DTOs, AutoMapper e validações
-- Autenticação e autorização
-- Integração com banco de dados relacional
-- Documentação com Swagger
-- Consumo e testes de endpoints via Postman
-- Organização de projetos em camadas
-
 ## 🚀 Projetos em Destaque
 
-### 📚 **BibliotecaAPI**
-🔗 https://github.com/LentineGabriel/BibliotecaAPI  
-API REST desenvolvida em **ASP.NET Core**, focada em organização, boas práticas e estruturação correta de domínio, serviços e repositórios.
-Mais detalhes do projeto em seu README.
+### 📚 BibliotecaAPI
 
-**Destaques técnicos:**
-- Arquitetura em camadas
-- Relacionamentos entre entidades
-- Validações
-- Swagger para documentação
-- Boas práticas de nomenclatura e responsabilidade
+API REST desenvolvida com **ASP.NET Core**, aplicando arquitetura em camadas, validações, relacionamentos entre entidades e documentação com Swagger.
+
+**Tecnologias:** ASP.NET Core • PostgreSQL • Swagger
+
+🔗 https://github.com/LentineGabriel/BibliotecaAPI
 
 ---
 
-### 📦 **CatalogoAPI**
-🔗 https://github.com/LentineGabriel/CatalogoAPI  
-Projeto voltado para construção de uma API de catálogo, explorando conceitos de **CRUD**, estrutura de controllers e integração com banco de dados.
-Mais detalhes do projeto em seu README.
+### 📦 CatalogoAPI
 
-**Destaques técnicos:**
-- CRUD completo
-- Padrão REST
-- Estrutura organizada
-- Foco em clareza e manutenção
+Projeto voltado para construção de uma API de catálogo, explorando operações CRUD, integração com banco de dados e boas práticas de desenvolvimento de APIs REST.
+
+**Tecnologias:** ASP.NET Core • MySQL • Entity Framework
+
+🔗 https://github.com/LentineGabriel/CatalogoAPI
 
 ---
 
-### 🔐 **Gerador de Senhas**
-🔗 https://github.com/LentineGabriel/GeradorSenhas  
-Projeto simples e funcional, focado em **lógica de programação**, geração segura e organização do código.
-Mais detalhes do projeto em seu README.
+### 🔐 Gerador de Senhas
 
-## 🏆 Bootcamps
+Aplicação desenvolvida para geração segura de senhas, com foco em lógica de programação, organização de código e boas práticas de implementação.
 
-<div align="center">
-  <a href="https://web.dio.me/track/decola-tech-avanade-net-developer" target="_blank"><img src="https://assets.dio.me/LzW5Gg_SdA1uJp5mzxBhEXT5srT_P8oTY6fIsgl6yOg/f:webp/h:120/q:80/L3RyYWNrcy82YmI0MDQyMC01Zjg5LTQ5MDItOGRmNy0zMzk5Njc0ZDlkODQucG5n" height="70"></a>
-  <a href="https://web.dio.me/track/avanade-back-end-com-net-e-ia" target="_blank"><img src="https://assets.dio.me/fmurnmImYsLpbR26s6Rsrxi82t-6iYqTlwkJGBzm0mI/f:webp/h:120/q:80/L3RyYWNrcy8yMzk0ODU4NS1iZTdmLTRlZjctODQxNi1iOGUwYWFhYWYyZjcucG5n" height="70"></a>
-  <a href="https://web.dio.me/track/9c448825-5d65-4620-b6a0-4ea01b0af99a" target="_blank"><img src="https://assets.dio.me/OHrJtmlMFWalaK_YrAnUm1n3K2YlCzSRv_yn6BPUb30/f:webp/h:120/q:80/L3RyYWNrcy81ODllMWU0Ny0xNTY4LTQ5MWMtOGM4MC1hZGQ2YTZmZWVlNTEucG5n" height="70"></a>
-  <a href="https://web.dio.me/track/6d3204ad-67bf-4e29-85fe-faef914ad050" target="_blank"><img src="https://assets.dio.me/vzDB5fs-eCBjaemDgMXw2hMKH2y7sYYOExMiHpr3mD0/f:webp/h:120/q:80/L3RyYWNrcy9hMDhlOThlNS05NWZhLTRiNjMtODNhZC00MjFmNTE4MDk2ZWIucG5n" height="70"></a>
-</div>
+**Tecnologias:** HTML/CSS e JavaScript
+
+🔗 https://github.com/LentineGabriel/GeradorSenhas
+
+
+## 🏆 Formações Complementares
+- [Decola Tech Avanade 2024 - .NET Developer](https://web.dio.me/track/decola-tech-avanade-net-developer)
+- [Avanade Back-End com .NET e IA](https://web.dio.me/track/avanade-back-end-com-net-e-ia)
+- [TIVIT - .NET com GitHub Copilot](https://web.dio.me/track/9c448825-5d65-4620-b6a0-4ea01b0af99a)
+- [.NET APIs](https://www.udemy.com/course/curso-web-api-asp-net-core-essencial/)
+- [Santander - Excel com IA](https://web.dio.me/track/6d3204ad-67bf-4e29-85fe-faef914ad050)
+- [Corpay Back-End](https://web.dio.me/track/bootcamp-corpay-backend-do-zero-a-pratica)
+- [Formação IA](https://www.udemy.com/course/inteligencia-artificial-para-iniciantes/)
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
-  <!-- Linha 1: cards lado a lado -->
   <img
     src="https://awesome-github-stats.azurewebsites.net/user-stats/LentineGabriel?cardType=level&theme=radical&preferLogin=false"
     alt="GitHub Stats"
     width="320"
-    height="200"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LentineGabriel&layout=compact&theme=radical&langs_count=12&size_weight=0.5&count_weight=0.5"
     alt="Top Languages"
     width="320"
-    height="200"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=LentineGabriel&theme=radical&hide_border=true"
+    alt="GitHub Streak"
   />
 </div>
